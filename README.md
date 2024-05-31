@@ -19,3 +19,8 @@ To use this component, you need to have Vue 3 installed in your project. If you 
 npm install -g @vue/cli
 vue create my-project
 cd my-project
+````
+
+# Sample Preview image
+
+![Tabs Component](https://github.com/AroshaRavishan/Active-Tabs-Content-Vue/blob/main/sample-preview.png)
